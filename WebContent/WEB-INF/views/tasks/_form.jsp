@@ -14,7 +14,7 @@
 <input type="text" name="title" value="${task.title}" />
 <br /><br />
 
-<label for="content">危険だと感じたこと</label><br />
+<label for="content">優先すべきこと</label><br />
 <input type="text" name="content" value="${task.content}" />
 <br /><br />
 

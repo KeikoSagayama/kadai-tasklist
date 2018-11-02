@@ -17,7 +17,7 @@
             <td><c:out value="${task.title}" /></td>
             </tr>
             <tr>
-        <th>危険だと感じたこと</th>
+        <th>優先すべきこと</th>
         <td><c:out value="${task.content}" /></td>
         </tr>
             <tr>
